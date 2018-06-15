@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "944341510855",
+    "firebase_url": "https://machinelearning-4d366.firebaseio.com",
+    "project_id": "machinelearning-4d366",
+    "storage_bucket": "machinelearning-4d366.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944341510855:android:58ef8e62f9980a7d",
+        "android_client_info": {
+          "package_name": "com.example.aura.machinelearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944341510855-h12fkccdagnlcostigehogg15sdpil6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aura.machinelearning",
+            "certificate_hash": "7b22a5a6fab6ada8edbf26caaf0b58818032aaa4"
+          }
+        },
+        {
+          "client_id": "944341510855-3b4ac1ebp6otbpo8i745ljn0o1vkib0f.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "944341510855-3b4ac1ebp6otbpo8i745ljn0o1vkib0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq0uYC0kjDjXiqcWET8E3MkNIV1y-KH4g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944341510855-3b4ac1ebp6otbpo8i745ljn0o1vkib0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
